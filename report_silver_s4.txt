@@ -1,0 +1,384 @@
+Report for silver_s4.csv
+
+Date range: 2024-04-11 to 2024-05-28
+
+Total ranked recipients: 370
+Total transactions processed: 5309
+Matching transactions found: 140
+
+Matching transactions:
+
+Recipient: dydx1ldw8cxeu4c5jguw3jzj8c3geckkywupajhj0hk (Rank: 218)
+  Sender: dydx1uf865tuwv96mtudpqyck7sugaeynuukxxx2vq6
+  Total USDC Amount: 100030.00
+  Number of transactions: 2
+  Transaction Hashes:
+    - 290539F11E9C679BCE1B2674ADF6AEBD8A75DD41696053BBE8C9C0916F70ADE8
+    - EA2935233E368469BB30F5C89462E3FE9F0252EC44ED2A88091B9AF1A947BE46
+  ---
+  Sender: dydx1nc4qr9vu60wn54wmw7m8fhk69x7z6frdpg8dgm
+  Total USDC Amount: 90215.00
+  Number of transactions: 2
+  Transaction Hashes:
+    - 00F8A9665619F5FC863E1B1160431E9C97DFA0B35398C64BEABC78FC858CA582
+    - 8E44494BE3940D11724587F1DE23BFBDC6B4456D195F00485743798A69D51FAF
+  ---
+  Sender: dydx1055h9lj5aptvspapfc0vm7hxfajafcvz097spf
+  Total USDC Amount: 42810.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 62B27255CA6FFA3BFE792F5A9C1F2C4365BBA1F1A3789FE8EF037AFD3DC94280
+  ---
+  Sender: dydx1h8rurly9lmsm5l7d0htz6p76w708jcrcvwcxdq
+  Total USDC Amount: 75350.00
+  Number of transactions: 2
+  Transaction Hashes:
+    - 6F27F982F1CBD3C9F06EC568C0CE760DBA2C0EA4836973BF5A792AA225C594E5
+    - 7DE1CB39E46F1B1CEBB5DB73A83B165C4A8A05F6B63195EDD3754A334BCD1DDB
+  ---
+  Sender: dydx1ldpy24vm9v0xn2q6sg0fy43hk2fg0a8nrh5zf2
+  Total USDC Amount: 37700.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 2BE6F7B07158D518FDC8DE8F792D5FF357623C53DDFC0FF2A63162AD9B04C94D
+  ---
+
+Recipient: dydx1nc4qr9vu60wn54wmw7m8fhk69x7z6frdpg8dgm (Rank: 208)
+  Sender: dydx1ldw8cxeu4c5jguw3jzj8c3geckkywupajhj0hk
+  Total USDC Amount: 92615.00
+  Number of transactions: 2
+  Transaction Hashes:
+    - F78111181C89DB71431D5043DFB011DAD3507F72F0AC0B3D8DE501580249B74C
+    - A789F6A076DFE93060528E2216ED706FB4002669F894C1E64AECCC7BDB76AD08
+  ---
+
+Recipient: dydx1055h9lj5aptvspapfc0vm7hxfajafcvz097spf (Rank: 194)
+  Sender: dydx1ldw8cxeu4c5jguw3jzj8c3geckkywupajhj0hk
+  Total USDC Amount: 43600.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - A543BC5AC54E9128F4C1EB65FF018B7AE699ED285FA5BC0B00690230AB54F8E9
+  ---
+
+Recipient: dydx1apfeprt0q67qqnf9758wnz087xekdvme8as2rt (Rank: 245)
+  Sender: dydx1axv8uda4c8ryz9e5gyx7hc3vz4ptmr6gmn67jw
+  Total USDC Amount: 10000.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 91DC6D602091CCD10904F1E5C7A3984DEC6A394F7C556F5DF624866B0338D773
+  ---
+  Sender: dydx1uqppd8h5drh9k7tr9nsr7de4cqpuuj68krj253
+  Total USDC Amount: 5000.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 30A0FABCC1FE681B8B208910D96BCDB7731C0B9B57FF409DC3F2CDB3D49224DE
+  ---
+
+Recipient: dydx1a0dsxjsap2v32gj0nr5z3jw5v779r45sdlwkjn (Rank: 219)
+  Sender: dydx1wsl4t7lya0y0gv8llctu59q74efqglvdq2s850
+  Total USDC Amount: 17242.00
+  Number of transactions: 52
+  Transaction Hashes:
+    - 78969DC43BA10D3ABA2A2DC9654A13CF16F6F601CECD05BA96A925C52F44F9BF
+    - 32FC38939C3B3083D75889A8C56C518E1B7A0BBA0AE473BEF57B35A4877C5164
+    - 67597F8A08F792DC55C2E01B4278C60E88CA72A10DA3989F9B8EC27277CF7610
+    - 78EE75E613313DF659C11997A6F39647853C785E2CC54971543B39AC497C320C
+    - 6C307A8400444B4B0391113A9BB8C935B9EAEA16C49A44940CA3FA8FFEA1E903
+    ... and 47 more transactions
+  ---
+  Sender: dydx1lywnjjclfsgrar4cmd5qm5mfdr8dezm390ccav
+  Total USDC Amount: 1527.00
+  Number of transactions: 8
+  Transaction Hashes:
+    - 29669A7093B49C54EC94958D713111EDD6E1AF1C063589E22FA0EAFFE956DE36
+    - 7723C1E7BB932CFC59A785A55B2D74665D51BCFA74D11A0A8403396B74BCD493
+    - 9BF471586969BE2CD7535DD4648E98236CC5515546DF02D240A306445A09EE23
+    - C2C99048E5590B3B1629F73747A0CD4D50371E4BD356BC07E558B3650891CB55
+    - 9E561883A64C2DB3ADB6BE95F4691E0BF87BDBBD9FF4CABEA3E333F9EE81A5EA
+    ... and 3 more transactions
+  ---
+
+Recipient: dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus (Rank: 50)
+  Sender: dydx1nq2p9yslh3ph8x9ajvlk609cgdwf74qjrsrujz
+  Total USDC Amount: 5000.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 1E68FD31F67EF6142A14F5E6F097AF9AAADEB99B00944192EFB08A15A23E6EEA
+  ---
+  Sender: dydx1yyu42chd95lgvjwd0d2rqw24mndzjdcp64ex7s
+  Total USDC Amount: 4000.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - A92FA39A82A45BB7714BB2DC5516A058E8A2F61E6D94E945B933F5F3D132F826
+  ---
+  Sender: dydx1f2evn7w8y2kmh8adv5lzjshz6mtp6u5xxgyct8
+  Total USDC Amount: 2000.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 4EAA15173CDBF61F59486B857A88589AF99F5DFE9DD806819E28C7D8E5C3B265
+  ---
+  Sender: dydx1mj36rlujy65djcl7h6jug3shujde9mjmjd7h9a
+  Total USDC Amount: 1484.15
+  Number of transactions: 1
+  Transaction Hashes:
+    - 9D8FC976CC8CA0E3C435B6C40D3821BBAAE20807582D7880B6E4E0F1DEA2AC9F
+  ---
+  Sender: dydx17gtqdwckjs03wqdj89nmftva2853skxycw3cjt
+  Total USDC Amount: 1469.20
+  Number of transactions: 1
+  Transaction Hashes:
+    - FDB5DCD0CEE6DFF3D952BBD97B0A1BA3A7302EEAA84458FE83683ECF3EEEF1B7
+  ---
+  Sender: dydx1n704mlcr2zfeevc5ztkkvk2zytzeghuqnll07x
+  Total USDC Amount: 1388.82
+  Number of transactions: 1
+  Transaction Hashes:
+    - E8B12DD0862E88438DB0EF61D5FAC24811EF8E6724B22104F59835ADC1787554
+  ---
+  Sender: dydx1x5upgtcqm2k2hee9tae5kflmv5f5hpmvd8amj0
+  Total USDC Amount: 1116.53
+  Number of transactions: 1
+  Transaction Hashes:
+    - 4BFE6ADFEF5D289E7680F2ABBC7A15C3E80E5BF87C17DF0BEAE63DA74527C066
+  ---
+
+Recipient: dydx1yyu42chd95lgvjwd0d2rqw24mndzjdcp64ex7s (Rank: 196)
+  Sender: dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus
+  Total USDC Amount: 3156.25
+  Number of transactions: 2
+  Transaction Hashes:
+    - EF0F68195FA4C69226630FC7E2C2527F389ACD9E41FA322DDEBC77F98CDC1DEF
+    - 6466A509F2EC73FFC7813A2BFEC691D3BE8BD4DB3EDAC182B3864AA02C1269DE
+  ---
+
+Recipient: dydx1c8zzar7939qatf8knr79h70v37e7lmx5xfnexv (Rank: 317)
+  Sender: dydx159xt55dvxlghfdpce4jzqwxrv4y3pwluz64cg5
+  Total USDC Amount: 3000.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - BE41F267F835EC313587D142406E1E92A44132383CA3F38E01F265041BBB03D3
+  ---
+
+Recipient: dydx1xg2q6rjf8ee9v0xnhzvv8xlx355an3fwu87e5l (Rank: 1)
+  Sender: dydx173z8lr6qhdupvdjyrytl6yspjt30qh5qlscj42
+  Total USDC Amount: 2300.40
+  Number of transactions: 1
+  Transaction Hashes:
+    - 7AC16E0A2E4D3D6FFC5953802EAD36725FB3B78575F05873D52E128FDAD76903
+  ---
+  Sender: dydx1k9csrqxs5jaxspkyl92de00tf4mwuvhqhf2s9a
+  Total USDC Amount: 2153.42
+  Number of transactions: 1
+  Transaction Hashes:
+    - 8AE3951EDF94BB63D4F1A1BA17E0985E6B3876518C80E7F5C02379ADF9821BBE
+  ---
+  Sender: dydx1fy723wkfwkmjmcs0f8nssfvhaxq3ufzhh8hwf5
+  Total USDC Amount: 1571.68
+  Number of transactions: 1
+  Transaction Hashes:
+    - AAD6FF02F687F28ACB391107B67A8995A2C63634F572C3DD6EEC3DDF642B0232
+  ---
+
+Recipient: dydx1wsl4t7lya0y0gv8llctu59q74efqglvdq2s850 (Rank: 123)
+  Sender: dydx1lywnjjclfsgrar4cmd5qm5mfdr8dezm390ccav
+  Total USDC Amount: 3821.00
+  Number of transactions: 5
+  Transaction Hashes:
+    - C9546AA84342F119961501AE68CE491E7F52ECA6FD04B335660936B8C910D1E0
+    - 5662C4FD488F113EC7965E8BA5A814442E3C06B7AAF60D6C821B15D65017365D
+    - 186B81D80FBD3E44C80E7A02E7D1638546CAFB4BB30BD71E1FA2B7DA5BC69D7A
+    - 95328D1C607AD34C3F3FE233D3F1B52843C5479C04AEC9D8B0CC5559FC6281A2
+    - 2FA66D0B627936ACFBDD2ED8E72035496E23CDCA173B7C0967476CF67F64BBD6
+  ---
+  Sender: dydx1a0dsxjsap2v32gj0nr5z3jw5v779r45sdlwkjn
+  Total USDC Amount: 9216.00
+  Number of transactions: 24
+  Transaction Hashes:
+    - 3D4BF6DDFD12A1F39B13A8CF42DA7CB038B23AC07665998792E2F7416D10239A
+    - 180A8E7DA1D419431B6F236AF8A068855A29442FEF0EA3E7EE022F15E6B6AF8B
+    - 5E2913CC28C1E7F4014361929A0742A15A69EE54E8252D8DEC3A497BA0E5F897
+    - 074A2397681F7944A34364C462F80E813CBF279A011561DCA0A88A00A3A64698
+    - 5204CAF3B486AD6FF1C226A103B89CE68B226B89366105371B8CD2AC1F762EF4
+    ... and 19 more transactions
+  ---
+
+Recipient: dydx159xt55dvxlghfdpce4jzqwxrv4y3pwluz64cg5 (Rank: 94)
+  Sender: dydx1005rtsdjq45n6ckp4w8z92f3xsptav824v70m0
+  Total USDC Amount: 2103.67
+  Number of transactions: 1
+  Transaction Hashes:
+    - 06261D4564160368191295A8CAEA8822A64FE9F2E7472A1A41A441C74C49385F
+  ---
+
+Recipient: dydx1f2evn7w8y2kmh8adv5lzjshz6mtp6u5xxgyct8 (Rank: 220)
+  Sender: dydx1x5upgtcqm2k2hee9tae5kflmv5f5hpmvd8amj0
+  Total USDC Amount: 1800.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 6605404B514D1BE9170B7E2A58CB5DB943DC381C4E6BFA41F1A77433DB7EC30D
+  ---
+  Sender: dydx1u8wusafrpn03mws7h5ghn9xhqs5d3zekx3nep0
+  Total USDC Amount: 552.57
+  Number of transactions: 1
+  Transaction Hashes:
+    - 451A91533C95309139915B16DE255C2E21CD6B586B1F8BC7ED502926CED61330
+  ---
+
+Recipient: dydx1yw2yve6vm4h5tfkn0rknzc7t0nh0her3fej2c4 (Rank: 63)
+  Sender: dydx1xvd3gcchv4uzxcp3pdh7n07m5c583f9qtjw98r
+  Total USDC Amount: 584.47
+  Number of transactions: 1
+  Transaction Hashes:
+    - D91975A4840BEF830982758D23BDEB060225F1757FD2E1D49A5B479B86590579
+  ---
+
+Recipient: dydx1q2uh4c3azs8yng8wnyu480dfq3y0chcux3ceuu (Rank: 153)
+  Sender: dydx1llp6hdy58m784mvxn0z240s43v4helx6m09zg2
+  Total USDC Amount: 500.22
+  Number of transactions: 1
+  Transaction Hashes:
+    - 206F3E4DFD6540254CDD104304538E3599F05C452C3AA01DCCD322E9EBA39033
+  ---
+  Sender: dydx1awcevnzf4nr8kwjtlw7g3k9evd0h9ayxnyncw5
+  Total USDC Amount: 408.42
+  Number of transactions: 1
+  Transaction Hashes:
+    - 8D6EB5FB15D38C3439D2C41A89946577519B6F3550533BD1576D65F466DB63AE
+  ---
+  Sender: dydx1d39y03gwwqtl6jeekeczjwawe8hzacxweuh9u7
+  Total USDC Amount: 406.67
+  Number of transactions: 1
+  Transaction Hashes:
+    - F444F0E7176D2571F24A0C98592A896B40B822D5AD08E481E7E58532FFEE184C
+  ---
+  Sender: dydx1gykzep78ns68n6csd6uzuf0yg6uy3vq5jjrqka
+  Total USDC Amount: 398.99
+  Number of transactions: 1
+  Transaction Hashes:
+    - 9C49BC0AFCA20F63068A5992BAA4990C7377CBF481C12DBC057554009EA5E601
+  ---
+  Sender: dydx1t9phgzca9ezan8nee53dxdyajn2vnntz35grd4
+  Total USDC Amount: 393.64
+  Number of transactions: 1
+  Transaction Hashes:
+    - 110D1712BB6972DC328260F601B08145F92F54B47D383817DEDA6BE98F5B0DFF
+  ---
+  Sender: dydx1md3fepxpqmazh2ksatj4hqtfdvapy84cpkdxqr
+  Total USDC Amount: 378.25
+  Number of transactions: 1
+  Transaction Hashes:
+    - D953B45152E315478E264358909DD82D5A9080A736546C8028F8ECDF7BF286E3
+  ---
+  Sender: dydx1705pj7esrgsd4jmqnnfexlw5zxmsysygz7gr3m
+  Total USDC Amount: 252.96
+  Number of transactions: 1
+  Transaction Hashes:
+    - E63C091BFF0641D77C277BBD2EBEF995CF7B1AC58C5B5E6FC6D305C121FD360F
+  ---
+  Sender: dydx1z8t3yntzkhwch7pn47a0u0qsht9cjlglnlrmw0
+  Total USDC Amount: 251.21
+  Number of transactions: 1
+  Transaction Hashes:
+    - 80855A58A2E9B864C290CC0039D296BE63958CBFB1231D82FC63BD660641DA8D
+  ---
+  Sender: dydx1wfwx6lnkr33ypsndcw2f2jn3xu2d69vxn650j8
+  Total USDC Amount: 245.40
+  Number of transactions: 1
+  Transaction Hashes:
+    - D300F2C6A302466D33F2AD3E6F66EAFCD3E1CC75834E9DDE30420273B4B09421
+  ---
+  Sender: dydx1v4tus98ka7mhlpanzddqmc8yay8v6afd20qlv9
+  Total USDC Amount: 177.85
+  Number of transactions: 1
+  Transaction Hashes:
+    - 0BE5D158332F5BFC772918F3241D2A461ADB5645BF950A15D91D639BD54B25F3
+  ---
+  Sender: dydx1h9rdpjxhaw3y6st6s9mm33xf8yudypr3ufsd2g
+  Total USDC Amount: 135.59
+  Number of transactions: 1
+  Transaction Hashes:
+    - 7A36BFC99D62AD2B1D1EB696628D058CBD97F3644A0BB4AF6488A917F93D124D
+  ---
+  Sender: dydx1szdp97xwca5tusynjwl8n5t00sslypy2fnyd45
+  Total USDC Amount: 98.04
+  Number of transactions: 1
+  Transaction Hashes:
+    - 5998BD0EB33220BE9B56D089A03A6D8CE50B194B9AEE052C9ADF3DC8323FC50E
+  ---
+  Sender: dydx177hsn9t2svacjh27vaqesmdspp8lxv4n0qu0sv
+  Total USDC Amount: 85.52
+  Number of transactions: 1
+  Transaction Hashes:
+    - 9CF70B076868F040D644AE4C76E4465085AEF39FE2000390428691814BD4A3A6
+  ---
+  Sender: dydx1g52r09cj9jj0209h2eq8uv6ckrqj6kwg3tyz6m
+  Total USDC Amount: 56.77
+  Number of transactions: 1
+  Transaction Hashes:
+    - 5971E90438B25E12C1C635C384680FCCA5E3393382D671128A342A0B6D242E4C
+  ---
+  Sender: dydx1f8xyj7nryqzqv57xhxsu76stxpxscwnmka88x3
+  Total USDC Amount: 40.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 1A8A4331C5317D8CBA716452E3297011C4FB1D961CC0E2F0C511EC0DB2AA456A
+  ---
+  Sender: dydx18vj2cs9xr9lkc76cdg3ecz9hl4cd62qdnzt09m
+  Total USDC Amount: 38.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 2116FB4AA9418ED1DF698B1A90C99E072FA5CD56D7EEFAA70AC916CF1A6EDF2A
+  ---
+  Sender: dydx1psw2s30aqcvfndrw6hf0mtedwruv6rxkxlu5n5
+  Total USDC Amount: 35.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - A4E48FB0B05EF4847C2C91A022B6933A048D03DE47DD82EF849ED51C3F84303F
+  ---
+  Sender: dydx120aqyytnmz0sd0cnkm32rsa2ghyk4r0q4tsveh
+  Total USDC Amount: 35.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - C0B50286DB9AF39E63C1AB4E0728119AE96C7C4F45E5BC7222F8C9CB33FA7088
+  ---
+
+Recipient: dydx1705pj7esrgsd4jmqnnfexlw5zxmsysygz7gr3m (Rank: 169)
+  Sender: dydx1q2uh4c3azs8yng8wnyu480dfq3y0chcux3ceuu
+  Total USDC Amount: 255.00
+  Number of transactions: 1
+  Transaction Hashes:
+    - 667226BB930A5E52789042A492A0976E3A96D8DDFAAF1BDB5D4B9CB57EA8F80A
+  ---
+
+Recipient: dydx16kyea8y786ut2n0m7lljckcpz2xp70tu3rvfy7 (Rank: 259)
+  Sender: dydx1jyp2qgsll3aryz5d5zt2gwp3c0gumafk4tdcv2
+  Total USDC Amount: 30.00
+  Number of transactions: 2
+  Transaction Hashes:
+    - 9037EDFC77F2DC861A66A40DD3E42F9D01223BB37EF21C6159BAEFA25279B60A
+    - 8DC0C08FD81E1C5B7B7574562DE93CEF7606D75AC12DF3F045F33046D2A35643
+  ---
+
+Senders with multiple ranked recipients:
+
+Sender: dydx1ldw8cxeu4c5jguw3jzj8c3geckkywupajhj0hk
+Recipients (Rank):
+  - dydx1055h9lj5aptvspapfc0vm7hxfajafcvz097spf (194)
+  - dydx1nc4qr9vu60wn54wmw7m8fhk69x7z6frdpg8dgm (208)
+
+Sender: dydx1lywnjjclfsgrar4cmd5qm5mfdr8dezm390ccav
+Recipients (Rank):
+  - dydx1wsl4t7lya0y0gv8llctu59q74efqglvdq2s850 (123)
+  - dydx1a0dsxjsap2v32gj0nr5z3jw5v779r45sdlwkjn (219)
+
+Sender: dydx1x5upgtcqm2k2hee9tae5kflmv5f5hpmvd8amj0
+Recipients (Rank):
+  - dydx1f2evn7w8y2kmh8adv5lzjshz6mtp6u5xxgyct8 (220)
+  - dydx1frsau05jculj9z0dneydrgjlnvymdmges8apus (50)
+
+Ranked senders who sent money to multiple recipients:
+
+Sender: dydx1ldw8cxeu4c5jguw3jzj8c3geckkywupajhj0hk (Rank: 218)
+Recipients (Rank):
+  - dydx1055h9lj5aptvspapfc0vm7hxfajafcvz097spf (194)
+  - dydx1nc4qr9vu60wn54wmw7m8fhk69x7z6frdpg8dgm (208)
