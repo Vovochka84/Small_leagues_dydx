@@ -300,18 +300,18 @@ Senders with multiple ranked recipients:
 
 Sender: dydx1wpcxcxdr9xrj0f9s7fhdt6lahvx87nhsdkc26l
 Recipients (Rank):
-  - dydx1mavpkuz8e2n0edjdtg8x0cth35uw6pfv3qnnrp (236)
+  - dydx1uhr26s22kua40qxfq9watq8epjzhyhj4y0983x (231)
+  - dydx19fupljn0hg8m6p7tm9zcdqy8x5pkqqf7ecv7dq (245)
   - dydx1kd7ggmtc44rdz4x2afuv9xk2ecgndz99c4x57m (197)
   - dydx1d98lyfs6thfmkx8s3d4xppc7yf2nlsz8es4ekh (240)
-  - dydx19fupljn0hg8m6p7tm9zcdqy8x5pkqqf7ecv7dq (245)
-  - dydx1uhr26s22kua40qxfq9watq8epjzhyhj4y0983x (231)
+  - dydx1mavpkuz8e2n0edjdtg8x0cth35uw6pfv3qnnrp (236)
 
 Sender: dydx17mty8z8l2dqkr3439jchz7ksa564ty85hamvct
 Recipients (Rank):
-  - dydx1u29chdk9x53cqs2qw6xmx9kgph0aly2xjdns44 (410)
-  - dydx14hfah99q4h5r4lgclz0g56xtrjgfakhmg4dcea (423)
   - dydx185kz8mg4gqlpp24588kczazfdzats70h083v76 (388)
   - dydx1mg6nwltkg0z8hwcp67kr4js6yrw6nkg4lqwny4 (408)
+  - dydx1u29chdk9x53cqs2qw6xmx9kgph0aly2xjdns44 (410)
+  - dydx14hfah99q4h5r4lgclz0g56xtrjgfakhmg4dcea (423)
 
 Sender: dydx1lqxf3effel9f8py87nhv9c4eeh0fp6c5katgaj
 Recipients (Rank):
@@ -320,24 +320,24 @@ Recipients (Rank):
 
 Sender: dydx18gzhgd5nl7pyz2kdjkuly00t9rxpg2cgpnfve6
 Recipients (Rank):
-  - dydx14hfah99q4h5r4lgclz0g56xtrjgfakhmg4dcea (423)
   - dydx1mg6nwltkg0z8hwcp67kr4js6yrw6nkg4lqwny4 (408)
+  - dydx14hfah99q4h5r4lgclz0g56xtrjgfakhmg4dcea (423)
 
 Sender: dydx1cavtgr88kw9uch7r4vqepyxvxar97hrl5k4kcv
 Recipients (Rank):
-  - dydx1evgc07hwen5jp4apzwjl4j7pr9xzfny7x2z248 (232)
   - dydx1kd7ggmtc44rdz4x2afuv9xk2ecgndz99c4x57m (197)
+  - dydx1evgc07hwen5jp4apzwjl4j7pr9xzfny7x2z248 (232)
 
 Sender: dydx1a3shk3n7dvn5uvvt62rqzrzgjj32h5eayxgngx
 Recipients (Rank):
-  - dydx1evgc07hwen5jp4apzwjl4j7pr9xzfny7x2z248 (232)
   - dydx19fupljn0hg8m6p7tm9zcdqy8x5pkqqf7ecv7dq (245)
+  - dydx1evgc07hwen5jp4apzwjl4j7pr9xzfny7x2z248 (232)
 
 Ranked senders who sent money to multiple recipients:
 
 Sender: dydx17mty8z8l2dqkr3439jchz7ksa564ty85hamvct (Rank: 204)
 Recipients (Rank):
-  - dydx1u29chdk9x53cqs2qw6xmx9kgph0aly2xjdns44 (410)
-  - dydx14hfah99q4h5r4lgclz0g56xtrjgfakhmg4dcea (423)
   - dydx185kz8mg4gqlpp24588kczazfdzats70h083v76 (388)
   - dydx1mg6nwltkg0z8hwcp67kr4js6yrw6nkg4lqwny4 (408)
+  - dydx1u29chdk9x53cqs2qw6xmx9kgph0aly2xjdns44 (410)
+  - dydx14hfah99q4h5r4lgclz0g56xtrjgfakhmg4dcea (423)

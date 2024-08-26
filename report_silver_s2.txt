@@ -165,8 +165,8 @@ Senders with multiple ranked recipients:
 
 Sender: dydx1vqlyemup4l09lyq3j0c7zwu3kv3jt4z5mte6ym
 Recipients (Rank):
-  - dydx1dzx7fjfhdljdum2ayu6ggr5533czgnlawd79a5 (87)
   - dydx17mwvr029ynzp08mw0azc3tzw5cnnyhg6ucgf27 (83)
+  - dydx1dzx7fjfhdljdum2ayu6ggr5533czgnlawd79a5 (87)
 
 Sender: dydx19l5hmaeh8k8z8paackcer3ukz3md7mhtdny3e2
 Recipients (Rank):
@@ -175,8 +175,8 @@ Recipients (Rank):
 
 Sender: dydx1ldpy24vm9v0xn2q6sg0fy43hk2fg0a8nrh5zf2
 Recipients (Rank):
-  - dydx16rzghgndaqjk87fecasqeqc5hjavfj72tv0tan (80)
   - dydx17mwvr029ynzp08mw0azc3tzw5cnnyhg6ucgf27 (83)
+  - dydx16rzghgndaqjk87fecasqeqc5hjavfj72tv0tan (80)
 
 Ranked senders who sent money to multiple recipients:
 

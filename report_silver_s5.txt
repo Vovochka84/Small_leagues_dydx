@@ -253,8 +253,8 @@ Senders with multiple ranked recipients:
 
 Sender: dydx1ujyxmj9n0sa6gfkvs2l3xfqhaw29qkkysfu57w
 Recipients (Rank):
-  - dydx1etty9ckhmsq90acnyr5zh8tlf5wmht2u82vzkh (166)
   - dydx1nc4qr9vu60wn54wmw7m8fhk69x7z6frdpg8dgm (165)
+  - dydx1etty9ckhmsq90acnyr5zh8tlf5wmht2u82vzkh (166)
 
 Sender: dydx1nv2dfa6w7zyhfxheyyqjgcev0dlkkan28g3a5c
 Recipients (Rank):

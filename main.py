@@ -125,14 +125,14 @@ def generate_report(ranked_file, transactions_file):
 
 def main():
     transactions_file = "transfer_txs.csv"
-    ranked_lists_dir = ""
+    leaderboards_dir = "Leaderboards"
 
     try:
         seasons = ["s2", "s3", "s4", "s5", "s6"]
         tiers = ["silver", "bronze"]
         for season in seasons:
             for tier in tiers:
-                ranked_file = os.path.join(ranked_lists_dir, f"{tier}_{season}.csv")
+                ranked_file = os.path.join(leaderboards_dir, f"{tier}_{season}.csv")
                 if os.path.exists(ranked_file):
                     generate_report(ranked_file, transactions_file)
 
