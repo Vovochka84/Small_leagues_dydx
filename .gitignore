@@ -1,6 +1,22 @@
-   *.pyc
-   __pycache__/
-   .vscode/
-   .idea/
-   *.log
-   report_*.txt
+# Python cache files
+*.pyc
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Generated report files
+report_*.txt
+
+# macOS system files
+.DS_Store
+
+# Credentials file
+credentials.json
+
+# Large data file (optional, depending on whether you want to track this or not)
+# transfer_txs.csv
